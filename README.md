@@ -39,8 +39,3 @@ The project follows a structured architecture to maintain code clarity and separ
 - **Navigation:** Cocoa Touch is used for managing navigation between different views and screens within the app.
 
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out. You can contact the project maintainers at [your.email@example.com](mailto:your.email@example.com).
-
-Thank you for exploring the Swipe and Match App project! We hope you find it informative and inspiring for your own iOS app development endeavors. Happy coding!
