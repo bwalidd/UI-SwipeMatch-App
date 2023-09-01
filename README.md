@@ -38,25 +38,6 @@ The project follows a structured architecture to maintain code clarity and separ
 
 - **Navigation:** Cocoa Touch is used for managing navigation between different views and screens within the app.
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. **Clone the Repository:** Clone this repository to your local machine using Git.
-
-2. **Open the Xcode Project:** Use Xcode to open the project file and explore the codebase.
-
-3. **Run the App:** Build and run the app in the iOS simulator or on a physical iOS device to see it in action.
-
-4. **Customize and Expand:** Feel free to customize the app, add new features, or modify existing ones to make it your own.
-
-## Contributing
-
-We welcome contributions from the community to enhance and improve the Swipe and Match App. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. We appreciate your efforts in making this project even better!
-
-## License
-
-This project is open-source and is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute it in accordance with the terms of the license.
 
 ## Contact
 
